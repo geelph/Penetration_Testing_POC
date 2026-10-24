@@ -934,6 +934,9 @@
 - [友加畅捷管理系统标准版 UpdateWayJJD接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Repair-UpdateWayJJD-sqli.html)
 - [友加畅捷管理系统标准版 UnitCreateDynamicGridHead接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Saler-Unit_CreateDynamicGridHead-sqli.html)
 - [友加畅捷管理系统标准版 ReportClassAllHTMLANDDBInfo接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-Report-ReportClassAllHTMLANDDBInfo.html)
+- [友加畅捷管理系统标准版 downloadzt接口任意文件读取漏洞](https://mrxn.net/jswz/youjiasoft-Sysconfig-downloadzt-sqli.html)
+- [PHP2SHELL: CVE-2026-109618-CVE-2026-109619-PHP会话上传进度状态残留全链研究之WordPress默认PHP环境下的RCE漏洞](https://mrxn.net/jswz/php2shell-cve-2026-109618-php-session-state-uaf-rce.html)
+- [友加畅捷管理系统标准版 StorageInfoUpdateProductListPrtTimes接口SQL注入漏洞](https://mrxn.net/jswz/youjiasoft-StorageInfo-UpdateProductListPrtTimes-sqli.html)
 
 
 ## <span id="head5"> 提权辅助相关</span>
